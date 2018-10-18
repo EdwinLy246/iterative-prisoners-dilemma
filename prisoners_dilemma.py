@@ -2,7 +2,7 @@ from __future__ import print_function
 
 ##### 
 # Computer Science and Software Engineering
-# PLTW AP CS Principles
+# PLTW AP CS Principle
 # (c)2014 Project Lead The Way, Inc.
 #
 # Activity 1.3.9 Tools for Collaboration
